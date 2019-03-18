@@ -1,2 +1,2 @@
-- My works in jupyter notebooks are here.
+- My works in jupyter notebooks are here
 
