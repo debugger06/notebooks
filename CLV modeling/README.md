@@ -1,1 +1,1 @@
-Customer value calculation 
+Customer value calculation model
